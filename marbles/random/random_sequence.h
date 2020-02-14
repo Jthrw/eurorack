@@ -37,8 +37,8 @@
 
 namespace marbles {
 
-const int kDejaVuBufferSize = 16;
-const int kHistoryBufferSize = 16;
+const int kDejaVuBufferSize = 128;
+const int kHistoryBufferSize = 128;
 
 const float kMaxUint32 = 4294967296.0f;
 
